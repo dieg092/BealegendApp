@@ -1,0 +1,10 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "quote-props": [2, "consistent", { "keywords": true }],
+    "arrow-body-style": 0,
+    "object-shorthand": [2, "methods", { "ignoreConstructors": true }],
+     "no-alert": 0
+  }
+
+}

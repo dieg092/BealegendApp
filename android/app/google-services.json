@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "168518552510",
+    "firebase_url": "https://bealegendapp.firebaseio.com",
+    "project_id": "bealegendapp",
+    "storage_bucket": "bealegendapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168518552510:android:603e6148765ca0f4",
+        "android_client_info": {
+          "package_name": "com.bealegend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168518552510-qebcmuj4jsq7fjr5dggpe0dld1u6m3te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bealegend",
+            "certificate_hash": "5d0f1945b8300f3571bd811f3bf524f0de958aa6"
+          }
+        },
+        {
+          "client_id": "168518552510-11hcqc3kuth9213115h1o3odu4pqg7k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrib8X8M6xlawmCH_NXbpFw7oeY_rNgV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168518552510-11hcqc3kuth9213115h1o3odu4pqg7k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
